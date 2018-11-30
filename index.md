@@ -1,7 +1,4 @@
----
-layout: post
-title: How to Integrate SQLite3 with Java
----
+# How to Integrate SQLite3 with Java
 
 ### Introduction to SQLite3
  
