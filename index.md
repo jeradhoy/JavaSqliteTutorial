@@ -1,4 +1,8 @@
-# How to Integrate SQLite3 with Java
+---
+layout: post
+title: How to Integrate SQLite3 with Java
+author: Jerad Hoy, Anna Watson, Greg Smirnow, and Sarah Hall
+---
  
 ### Introduction to SQLite3
  
