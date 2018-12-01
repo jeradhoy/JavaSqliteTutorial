@@ -1,8 +1,8 @@
 # How to Integrate SQLite3 with Java
-
+ 
 ### Introduction to SQLite3
  
-SQLite is a very popular system for implementing simple relational databases. These databases allow us to access, modify, and query data in a structured way. However, often we want to use a relational database within another application. In this tutorial, we will demonstrate how to integrate a simple SQLite3 database into a Java application.
+SQLite is a very popular system for implementing simple relational databases. These databases allow us to access, modify, and query data in a structured way. However, often we want to use a relational database within another application. In this tutorial, we will demonstrate how to integrate a simple SQLite3 database into a Java application for new and old users alike.
  
 To install SQLite3, follow the directions at [this link](http://www.sqlitetutorial.net/download-install-sqlite/).
  
@@ -226,3 +226,6 @@ Which results in:
 { 2, Anna, Watson, 12 }
 { 3, Pep, Boi, 11 }
 ```
+
+
+Integrating Java and SQLite is an easy and accessible process to those just learning to program and seasoned veterans alike. In no time you can successfully navigate and manipulate data using Java and SQLite. Query on! 
